@@ -1,0 +1,16 @@
+table {
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid black;
+}
+
+th,
+td {
+	padding: 8px;
+	text-align: left;
+	border: 1px solid black;
+	text-transform: capitalize;
+}
+tr {
+	border: 1px solid black;
+}
